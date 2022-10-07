@@ -1,16 +1,14 @@
 # TODO LIST
 
-A simple project using Go and native resources for build this application and explore a little over data structure in Go.
-I really like it though don't have a many resources or big resources to work with data structure such as python, javascript etc.
+A simple project using Go and native resources for build this application and explore a little over data structure in Go. I really liked it though don't have a many resources or big resources to work with data structure such as python, javascript etc.
 
-But it's a good stack, to offer a good experience and performance to develop, I think yh.
-That's Good.
+But it's a good stack, to offer a good experience and performance of develop, I think that yh. That's Good.
 
 ## Tasks that the app already make
 
 List of tasks that the app already make:
 
-Some tasks already are maked in service and only don't have a controller that apoint to some andpoint, but exists on service module:
+Some tasks already make at services module and only don't have a controller that apoint to some endpoint, but exists on service module:
 
 - [x] Create a task
 - [x] List all tasks
